@@ -15,7 +15,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 
 
-## Badges
+## licence
 [![Essths License](https://img.shields.io/badge/License-ESSTHS-green.svg)](https://choosealicense.com/licenses/essths/)
 
 
