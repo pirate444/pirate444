@@ -15,6 +15,10 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 
 
+## Badges
+[![Essths License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/essths/)
+
+
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
