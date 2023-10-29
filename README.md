@@ -16,7 +16,7 @@
 
 
 ## licence
-[![Essths License](https://img.shields.io/badge/License-ESSTHS-green.svg)](https://choosealicense.com/licenses/essths/)
+[![Essths License](https://img.shields.io/badge/License-CS-green.svg)](https://choosealicense.com/licenses/essths/)
 
 
 **languages and tools:**  
