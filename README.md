@@ -30,7 +30,7 @@
 
 <a href="https://www.facebook.com/chouayeb.beltaief" target="_blank">
 <img src="https://img.shields.io/badge/-chouayeb%20beltaief-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fchouaib-beltaief-173648269%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app%26fbclid%3DIwAR0QZQWNferGotXaC_3X2GUwoVWRbHFIPzZl_mtyh0eUOrLWZAIwZrq-dXk&h=AT2AE8wXKuR_o0QpVM_YZlGyTN5mqkhQSxh0yIITN6GdOHwiFRpmX5KMM5j_i5j8IYsmj9y2lqWOZTnKpYC2x2jPBKXCAT9L2abG0kBUuG5fQg_TBTD43qcBy7y4zLCpF2_TJg" target="_blank">
+<a href="https://www.linkedin.com/in/chouaib-beltaief-173648269/" target="_blank">
 <img src="https://img.shields.io/badge/-chouayeb%20beltaief-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## Other Common Github Profile Sections
