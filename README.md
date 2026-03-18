@@ -33,7 +33,3 @@
 <a href="https://www.linkedin.com/in/chouaib-beltaief-173648269/" target="_blank">
 <img src="https://img.shields.io/badge/-chouayeb%20beltaief-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on freecodecamp's JavaScript Algorithms and Data Structures Certification
-
-🧠 I'm currently learning JavaScript,Git and GitHub.
